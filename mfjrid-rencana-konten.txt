@@ -4,4 +4,6 @@ RENCANA KONTEN MFJRID
   * Bikin kue
 - Bikin video mainan anak-anak
   * Ultraman
-- video tutorial
+- Video tutorial
+  * tutorial editing video
+  * tutorial hacking
